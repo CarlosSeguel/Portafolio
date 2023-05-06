@@ -1,0 +1,47 @@
+body {
+    width: 100%;
+}
+p {
+    font-size: 1.5em;
+    color: #333;
+}
+.contenidos{
+    display: block;
+}
+.banner-container{
+    margin-top: 79px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner{
+    display: flex;
+    width: 100%;
+}
+.banner-image {
+    height: 350px;
+    width: 50%;
+    object-fit: cover;
+}
+.title{
+    position: absolute;
+    text-align: center;
+    color: white;
+    border: 1px solid;
+    border-radius: 15px;
+    background: rgb(0, 0, 0, 0.4);
+    padding: 30px;
+}
+.introduction{
+    padding: 25px;
+    text-align: center;
+}
+.products{
+    padding: 35px;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+}

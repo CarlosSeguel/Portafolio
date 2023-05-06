@@ -1,0 +1,77 @@
+.navbar{
+    background-color:#28a745;
+}
+.navbar-nav{
+margin-left: 80%;
+}
+.main-container{
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.container-cards2{
+    margin-top: 25px;
+}
+.card-footer{
+    text-align: right;
+}
+.fas{
+    margin-right: 3px;
+}
+.text-body-secondary{
+    display: flex;
+    justify-content: end;
+}
+.price{
+    font-size: 25px;
+    color: #28a745;
+}
+.form-section{
+    background-color: #28A745;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 29px;
+}
+.form-section h1{
+    font-size: 21px;
+    color: white;
+}
+.name-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.h1-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+.name-form{
+    width: 268px;
+}
+.mail-form{
+    width: 268px;
+    margin-bottom: 14px;
+}
+.img-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+.p-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    color: #707070;
+    padding: 10px 21px 22px 21px;
+}
+.img-footer-size{
+    align-items: center;
+    width: 82px;
+    height: 24px;
+}
